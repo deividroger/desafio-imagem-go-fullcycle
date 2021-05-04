@@ -1,7 +1,7 @@
 # desafio GO - docker fullcycle
 
-Execute o comando abaixo para executar o container:
+Baixe e execute o container com o comando abaixo:
 
 ```sh
-    docker run docker run deividroger/desafio-go-full-cycle:2.0
+docker run docker run deividroger/desafio-go-full-cycle:2.0
 ```
